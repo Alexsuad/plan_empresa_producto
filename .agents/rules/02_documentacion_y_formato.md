@@ -2,16 +2,29 @@
 trigger: always_on
 ---
 
+---
+trigger: always_on
+---
+
+# File: .agents/rules/02_documentacion_y_formato.md
+# ──────────────────────────────────────────────────────────────────────
+# Propósito: Estandarizar documentación creada o modificada.
+# Rol: Regla de formato documental.
+# ──────────────────────────────────────────────────────────────────────
+
 # Regla — Documentación y formato
 
-Todo archivo Markdown creado debe iniciar con encabezado de archivo:
+Todo archivo Markdown creado o modificado debe iniciar con un encabezado de archivo.
 
-```markdown
+Formato obligatorio:
+
+~~~markdown
 # File: [ruta relativa]
 # ──────────────────────────────────────────────────────────────────────
 # Propósito: [descripción breve]
 # Rol: [función dentro del sistema]
 # ──────────────────────────────────────────────────────────────────────
+~~~
 
 Toda documentación debe estar en español claro, sencillo y profesional.
 
@@ -21,8 +34,6 @@ No eliminar ejemplos pedagógicos útiles sin justificación.
 
 No resumir agresivamente contenido que todavía sea fuente de verdad.
 
+No mezclar documentación de producto con documentación técnica ejecutable si pertenecen a fases distintas.
 
-Ojo: ese archivo contiene un bloque Markdown dentro de otro Markdown. Si Antigravity se confunde, podemos simplificarlo después.
-
----
-
+Si un documento contiene una decisión pendiente, debe marcarse claramente como pendiente y no como decisión aprobada.
