@@ -42,7 +42,7 @@ Se recomienda pasar de una estructura plana a una estructura modular basada en l
 | `03_2_estudio_mercado.md` | Bloque 3.2: Estudio de mercado, competencia y clientes. |
 | `03_3_analisis_interno.md` | Bloque 3.3: Recursos, capacidades y fortalezas. |
 | `04_dafo_came.md` | Bloque 4: Matriz de diagnóstico y líneas de acción. |
-| `05_objetivos_estrategia.md` | Bloque 5: Líneas estratégicas y metas. |
+| `05_objetivos_lineas_estrategicas.md` | Bloque 5: Líneas estratégicas y metas. |
 | `06_1_marketing_ventas.md` | Bloque 6.1: Canales, precios y ventas. |
 | `06_2_operaciones.md` | Bloque 6.2: Producción, procesos y logística. |
 | `06_3_recursos_humanos.md` | Bloque 6.3: Estructura orgánica y costes laborales. |
