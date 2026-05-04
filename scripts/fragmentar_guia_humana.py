@@ -150,7 +150,8 @@ def main():
     parser = argparse.ArgumentParser(description="Fragmentar la Guía Humana del Plan de Empresa.")
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--dry-run", action="store_true", help="Muestra qué haría sin escribir archivos.")
-    group.add_argument("--write", action="store_true", help="Escribe los archivos destino con backup previo.")
+    group.add_argument("--write", action="store_true", help="Escribe los archivos destino.")
+    parser.add_argument("--backup", action="store_true", help="Crea un backup .bak antes de sobrescribir archivos existentes (solo con --write).")
     
     args = parser.parse_args()
     
@@ -176,8 +177,8 @@ def main():
         
         elif args.write:
             try:
-                # Backup si existe
-                if os.path.exists(ruta_destino):
+                # Backup opcional si existe
+                if args.backup and os.path.exists(ruta_destino):
                     shutil.copy2(ruta_destino, ruta_destino + ".bak")
                 
                 # Escribir contenido
