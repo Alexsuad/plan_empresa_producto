@@ -1,0 +1,16 @@
+# Backups y temporales de fragmentación
+*.bak
+scripts/__pycache__/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Sistema
+.DS_Store
+Thumbs.db
+.env
