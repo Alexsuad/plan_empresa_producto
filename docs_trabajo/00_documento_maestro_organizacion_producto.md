@@ -43,7 +43,7 @@ Su función es ordenar:
 5. Qué evidencias debe guardar el sistema.
 6. Qué gates debe respetar el flujo.
 
-Este documento sirve como puente entre producto y futuro sistema agéntico.
+Este documento sirve como puente entre producto, marketing, servicio y posterior traspaso técnico.
 
 ---
 

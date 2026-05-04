@@ -16,4 +16,3 @@ Este repositorio centraliza la documentación estratégica para el desarrollo de
 
 Para entender el estado del proyecto y las reglas de trabajo, lea primero:
 [00_documento_maestro_organizacion_producto.md](docs_trabajo/00_documento_maestro_organizacion_producto.md)
-# plan_empresa_producto

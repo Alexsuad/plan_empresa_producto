@@ -35,7 +35,9 @@ Cada punto se analiza bajo los siguientes criterios:
    | Tablas financieras         | 6.1, 6.2, 6.3, 6.4 y 6.5         |
    | Calendario de implantación | 5, 6 y 7                         |
 
-La investigación comprende los siguientes aspectos: competencia, mercado actual, referentes, océano azul, saturación, precios, reseñas, ayudas, evolución del sector, entrevistas, prensa, datos públicos, etc.
+3. **Qué debe investigar el emprendedor en cada punto**
+
+   La investigación comprende los siguientes aspectos: competencia, mercado actual, referentes, océano azul, saturación, precios, reseñas, ayudas, evolución del sector, entrevistas, prensa, datos públicos, etc.
 
 4. **Qué preguntas son para entrevista humana y cuáles para sistema agéntico**
 
@@ -78,7 +80,7 @@ La jerarquía de capas se define de la siguiente manera:
 | **Mapa de anexos**          | Indica qué respuestas alimentan Canvas, DAFO, PESTEL, CAME, etc.     |
 | **Mapa de investigación**   | Define qué debe investigar el sistema en cada punto.                 |
 | **Mapa de validaciones**    | Define qué respuestas bloquean o permiten avanzar.                   |
-| **Sistema agéntico futuro** | Usa todo lo anterior para preguntar, investigar, redactar y auditar. |
+| **Sistema funcional posterior** | Usa todo lo anterior para preguntar, investigar, redactar y auditar. |
 
 ## Ejemplo de cómo debe verse
 
@@ -194,4 +196,4 @@ Bloques a desarrollar:
 6. **Fuentes recomendadas por tipo de investigación.**
 7. **Qué evidencias debe guardar el sistema.**
 8. **Qué validaciones bloquean el avance.**
-9. **Cómo se conecta todo con el futuro sistema agéntico.**
+9. **Cómo se conecta todo con el sistema funcional posterior.**
